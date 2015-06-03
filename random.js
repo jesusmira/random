@@ -6,4 +6,3 @@ if (numero <= 0.5) {
 }
 console.log("caracter con unicode en chino : \\u55e8");
 console.log("linea añadida para commit");
-console.log('otra linea mas para ver en github');
